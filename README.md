@@ -1,2 +1,2 @@
 # Resume
-This is my resume.
+Github page for my resume
